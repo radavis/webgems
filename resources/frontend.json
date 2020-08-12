@@ -61,6 +61,12 @@
       "desc": "Friendly web development tutorials for complete beginners in HTML and CSS",
       "url": "https://www.internetingishard.com/",
       "tags": ["html", "semantic", "css", "typography"]
+    },
+    {
+      "title": "REQ | RES",
+      "desc": "A hosted REST-API ready to respond to your AJAX requests. Prototype your frontend without building a backend API.",
+      "url": "https://reqres.in/",
+      "tags": ["api", "rest", "json", "prototyping"]
     }
   ]
 }

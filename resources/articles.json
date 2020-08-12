@@ -1,0 +1,18 @@
+{
+  "title": "Articles",
+  "slug": "/articles",
+  "resources": [
+    {
+      "title": "React Integration Testing: Greater Coverage, Fewer Tests",
+      "desc": "This article follows an exercise that starts with a simple website, validates behavior with unit and integration tests, and demonstrates how integration testing delivers greater value from fewer lines of code.",
+      "url": "https://css-tricks.com/react-integration-testing-greater-coverage-fewer-tests",
+      "tags": ["tech", "code"]
+    },
+    {
+      "title": "",
+      "desc": "",
+      "url": "",
+      "tags": ["tech", "code"]
+    }
+  ]
+}
